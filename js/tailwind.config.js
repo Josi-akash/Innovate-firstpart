@@ -12,6 +12,7 @@ tailwind.config = {
         countColor:"#1BBF00",
         counttextColor:"#141135",
         choosetextColor:"#726E9E",
+        serviBgColor:"#F6F5FF",
       },
 
     
